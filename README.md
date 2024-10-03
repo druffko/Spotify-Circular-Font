@@ -14,4 +14,4 @@ LL Circular offers a fresh take on the genre of the geometric grotesk. This typo
 
 First begun in 2008, LL Circular’s design evolved from a purely geometric approach to a more complex formal conception by the time of its 2013 release. The result is a geometric sans serif that marries purity with warmth and strikes a balance between functionality, conceptual rigour, skilled workmanship and measured idiosyncrasy. With both unmistakeable character and near-universal appeal, this friendly font proved popular in editorial, advertising or branding contexts. It lends itself beautifully for use in headlines or for body copy.
 
-Versions of the LL Circular family for Cyrillic, Greek, Hebrew, Arabic, Vietnamese and Devanagari scripts are available on request.
+**Last Updated: October 3 2024**
